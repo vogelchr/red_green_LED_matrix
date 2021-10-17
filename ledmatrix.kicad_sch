@@ -1307,6 +1307,11 @@
     (uuid d198fc61-959c-4247-a717-e6de9f7fe25d)
   )
 
+  (text "A: anodes (rows)\nG: mosfet \"gates\"" (at 93.98 17.78 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b5d9a2f5-7ea2-48b3-830b-298e6c2c1458)
+  )
+
   (label "ROW_A0" (at 26.67 25.4 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a6372b79-97dd-4e3a-bddf-169412101be2)
